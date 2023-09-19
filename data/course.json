@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "2cfd5242-641b-7311-fb07-82ef73859fe5",
+  "instructors": {
+    "content": [
+      "08ceb10b-9edc-6a80-ae10-3acf9b2ce359"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "325fb3d7-94be-116c-f9cd-6236436192c5",
+    "website": "4-322-introduction-to-sculpture-fall-2003"
+  },
+  "course_title": "Introduction to Sculpture",
+  "course_description": "This class introduces fundamental issues in sculpture such as site, context, process, psychology and aesthetics of the object, and the object's relation to the body. During the semester Introduction to Sculpture will explore issues of interpretation and audience interaction. As a significant component to this class introductions to a variety of materials and techniques both traditional (wood, metal, plaster) as well as non-traditional (fabric, latex, found objects, rubber, etc.) will be emphasized.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.322",
+  "course_image_thumbnail": {
+    "content": "e95f9315-d9ef-9eed-bc04-938e5496fab0",
+    "website": "4-322-introduction-to-sculpture-fall-2003"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Activity Assignments"
+  ],
+  "site_uid": "3cc749cc-5295-480e-8e46-6b97eee898d9",
+  "site_short_id": "4.322-fall-2003",
+  "title": "Course Metadata"
+}
